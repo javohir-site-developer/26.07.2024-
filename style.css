@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+
+.conteyner {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+.color{
+    background-color: #ECF8F9;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+.first{
+    background-color: #232536;
+}
+a{
+    color: white;
+}
+.middle{
+    text-align: center;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+.name{
+    margin-top: 10%;
+}
+.social{
+    margin-top: 5%;
+}
+.red{
+    border: none;
+    list-style: none;
+    text-decoration: none;
+    margin-top: 10%;
+}
+.second a {
+    color: #444CFC;
+
+} 
+.second{
+    background-color: white;
+}
+.green{
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-bottom: 7%;
+    padding-top: 7%;
+    gap: 10px;
+}
+.pink{
+
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+text-align: left;
+
+}
+.botto{
+margin-bottom: 15%;
+}
+.bottom {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.bottom {
+    background-image: url(./images/shapes2.png);
+    background-repeat: no-repeat;
+    background-size: 40px 30px;
+    background-position: left top;
+}
+.fed {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.def {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 58px;
+    text-align: left;
+    margin-top: 10%;
+}
+
+.up {
+    gap: 20px;
+    margin-right: 10%;
+    margin-top: 4%;
+}
+
+.pik {
+    background-color: #FFE6D2;
+    text-align: end;
+}
+
+.hure {
+    border: none;
+    margin-top: 20%;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 0%;
+    gap: 10px;
+
+}
+
+.hure a {
+    color: black;
+}
+.ujt{
+    margin-top: 30%;
+}
+.one{
+    padding-left: 10%;
+    padding-right: 10%;
+}
